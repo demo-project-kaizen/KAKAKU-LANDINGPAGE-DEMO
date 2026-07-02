@@ -20,7 +20,7 @@ interface GalleryItem {
 const GALLERY_ITEMS: GalleryItem[] = [
   {
     id: 'g1',
-    src: '/src/assets/images/kakaku_front.png',
+    src: '/images/kakaku_front.png',
     title: 'The Signature Front Facade',
     description: 'Our iconic Cipinang storefront where raw concrete walls, warm wooden frames, and an elegant vintage silver E34 BMW create a perfect nostalgic entry.',
     category: 'space',
@@ -29,7 +29,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g2',
-    src: '/src/assets/images/kakaku_night.png',
+    src: '/images/kakaku_night.png',
     title: 'Twilight Sanctuary',
     description: 'As twilight falls, our custom lighting strings and concrete structures transform Kakaku into a serene, peaceful urban getaway.',
     category: 'space',
@@ -38,7 +38,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g3',
-    src: '/src/assets/images/kakaku_coffee1.png',
+    src: '/images/kakaku_coffee1.png',
     title: 'A Cup of Comfort',
     description: 'Our signature slow bar hand brew coffee, meticulously extracted to highlight notes of tropical fruits and served in cozy glasses.',
     category: 'coffee',
@@ -47,7 +47,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g4',
-    src: '/src/assets/images/kakaku_coffee2.png',
+    src: '/images/kakaku_coffee2.png',
     title: 'The Perfect Double Shot',
     description: 'A close look at our rich espresso base with flawless silky microfoam. Pure craftsmanship in every pour.',
     category: 'coffee',
@@ -56,7 +56,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g5',
-    src: '/src/assets/images/kakaku_food.png',
+    src: '/images/kakaku_food.png',
     title: 'Signature Nasi Goreng Kakaku',
     description: 'Freshly wok-fried premium rice tossed in our legendary secret paste of aromatic local Indonesian spices, topped with perfect sunny-side ups.',
     category: 'food',
@@ -65,7 +65,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g6',
-    src: '/src/assets/images/kakaku_food2.png',
+    src: '/images/kakaku_food2.png',
     title: 'Crispy Chicken Katsu Curry',
     description: 'Perfectly breaded golden-crisp chicken breast, paired with a rich, aromatic Japanese curry reduction over fluffy steamed rice.',
     category: 'food',
@@ -74,7 +74,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g7',
-    src: '/src/assets/images/kakaku_space.png',
+    src: '/images/kakaku_space.png',
     title: 'Japanese Zen Aesthetics',
     description: 'Our indoor air-conditioned zone is decorated with clean wood panelling, concrete floors, and curated Japanese retro illustration frames.',
     category: 'space',
@@ -83,7 +83,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g8',
-    src: '/src/assets/images/kakaku_wall.png',
+    src: '/images/kakaku_wall.png',
     title: 'The Typographic Poster Wall',
     description: 'A cozy corner lined with vibrant, curated retro posters, typography, and stickers celebrating the ultimate slow life and coffee lovers.',
     category: 'space',
@@ -92,7 +92,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g9',
-    src: '/src/assets/images/kakaku_coffee3.png',
+    src: '/images/kakaku_coffee3.png',
     title: 'In-House Roasted Beans',
     description: 'Sourced directly from single-estate farms across Toraja, Gayo, and Kintamani, then roasted in micro-batches right here in our roastery.',
     category: 'coffee',
@@ -101,7 +101,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g10',
-    src: '/src/assets/images/kakaku_drinks2.png',
+    src: '/images/kakaku_drinks2.png',
     title: 'Double Treats',
     description: 'Beautifully layered Matcha Floats and mocktails crafted to accompany you during deep conversations or late-night creative study blocks.',
     category: 'coffee',
@@ -110,7 +110,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g11',
-    src: '/src/assets/images/kakaku_shop.png',
+    src: '/images/kakaku_shop.png',
     title: 'Rustic Garden Corner',
     description: 'Our outdoor backyard features neat timber picnic benches over fine local pebbles under a cool, airy canopy.',
     category: 'space',
@@ -119,7 +119,7 @@ const GALLERY_ITEMS: GalleryItem[] = [
   },
   {
     id: 'g12',
-    src: '/src/assets/images/cashier.png',
+    src: '/images/cashier.png',
     title: 'The Warm Cashier & Bar Area',
     description: 'Our welcoming order point where you can browse our freshly baked treats, select your single-origin flavor profile, and chat with baristas.',
     category: 'space',

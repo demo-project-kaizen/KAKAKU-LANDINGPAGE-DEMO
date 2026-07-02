@@ -145,7 +145,7 @@ export default function App() {
                 <div className="relative border border-brand-stone/10 p-4 bg-white/70 rounded-3xl shadow-sm">
                   <div className="aspect-[4/5] overflow-hidden relative rounded-2xl">
                     <img
-                      src="/src/assets/images/kakaku_front.png"
+                      src="/images/kakaku_front.png"
                       alt="Kakaku Coffee & Place front facade"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover transform hover:scale-102 transition-transform duration-700 ease-out"
@@ -182,7 +182,7 @@ export default function App() {
                   <div className="col-span-7 border border-brand-stone/10 p-2.5 bg-brand-sand rounded-3xl">
                     <div className="aspect-[3/4] overflow-hidden relative rounded-2xl">
                       <img
-                        src="/src/assets/images/kakaku_coffee1.png"
+                        src="/images/kakaku_coffee1.png"
                         alt="Authentic Coffee Poster frames at Kakaku"
                         referrerPolicy="no-referrer"
                         className="w-full h-full object-cover"
@@ -194,7 +194,7 @@ export default function App() {
                   <div className="col-span-5 border border-brand-stone/10 p-2.5 bg-brand-sand -translate-y-12 rounded-3xl">
                     <div className="aspect-square overflow-hidden relative rounded-2xl">
                       <img
-                        src="/src/assets/images/kakaku_coffee2.png"
+                        src="/images/kakaku_coffee2.png"
                         alt="Pristine latte art at Kakaku"
                         referrerPolicy="no-referrer"
                         className="w-full h-full object-cover"

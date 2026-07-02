@@ -65,7 +65,7 @@ export const KAKAKU_SPACES: SpaceSpot[] = [
     name: 'The Gravel Backyard',
     description: 'Cozy outdoor ground featuring neat timber picnic benches over fine local pebbles under a cool metal canopy.',
     capacity: '24 seats available',
-    image: '/src/assets/images/kakaku_gravel.png',
+    image: '/images/kakaku_gravel.png',
     badge: 'Outdoor Patio'
   },
   {
@@ -73,7 +73,7 @@ export const KAKAKU_SPACES: SpaceSpot[] = [
     name: 'The Sunset Rooftop',
     description: 'Breathtaking open-air counter overlooking the neighborhood horizon, fitted with steel high-stools and warm perimeter string lights.',
     capacity: '16 seats available',
-    image: '/src/assets/images/kakaku_rooftop.png',
+    image: '/images/kakaku_rooftop.png',
     badge: 'Rooftop Lounge'
   },
   {
@@ -81,7 +81,7 @@ export const KAKAKU_SPACES: SpaceSpot[] = [
     name: 'The Slow Bar Room',
     description: 'Charming air-conditioned indoor zone lined with natural wood grains, raw plaster walls, and custom framed typographic poster collections.',
     capacity: '12 seats available',
-    image: '/src/assets/images/kakaku_space.png',
+    image: '/images/kakaku_space.png',
     badge: 'Indoor Slow Bar'
   }
 ];
@@ -177,7 +177,7 @@ export const KAKAKU_BLOGS: BlogArticle[] = [
     date: 'Jul 21, 2026',
     title: 'The Art of Micro-Batch Coffee Roasting',
     description: 'Understanding how quick thermal changes and airflow during roasting influence the structural acidity of local Indonesian beans.',
-    image: '/src/assets/images/kakaku_coffee3.png'
+    image: '/images/kakaku_coffee3.png'
   },
   {
     id: 'bl2',
@@ -185,7 +185,7 @@ export const KAKAKU_BLOGS: BlogArticle[] = [
     date: 'Jun 10, 2026',
     title: 'Creating Zen in a Concrete Neighborhood',
     description: 'A visual walkthrough of our architectural process: transforming a raw brick layout into a minimalist Japanese-style retreat.',
-    image: '/src/assets/images/kakaku_night.png'
+    image: '/images/kakaku_night.png'
   },
   {
     id: 'bl3',
@@ -193,7 +193,7 @@ export const KAKAKU_BLOGS: BlogArticle[] = [
     date: 'May 04, 2026',
     title: 'Slow Bar Recipe: The Perfect Hand Brew',
     description: 'Discover Hana’s precise water ratio, pouring temperature, and grind calibration for bringing out tropical notes in Gayo beans.',
-    image: '/src/assets/images/kakaku_food2.png'
+    image: '/images/kakaku_food2.png'
   }
 ];
 
