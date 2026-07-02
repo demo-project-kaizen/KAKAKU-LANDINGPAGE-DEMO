@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Cormorant Garamond", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  /* Custom Color Palette (Replicating deep teal, soft marble light background, and wood-coffee accents) */
+  --color-brand-teal-950: #042424;
+  --color-brand-teal-900: #063434;
+  --color-brand-teal-800: #084444;
+  --color-brand-teal-700: #005b5c;
+  --color-brand-teal-600: #0a6c6d;
+  --color-brand-teal-500: #0c7d7e;
+  
+  --color-brand-gold: #c5a880;
+  --color-brand-gold-dark: #b8976b;
+  --color-brand-sand: #fbf9f6;
+  --color-brand-stone: #1c1d1d;
+  --color-brand-amber: #e28743;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-brand-sand);
+    color: var(--color-brand-stone);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    scroll-behavior: smooth;
+  }
+}
+
+/* Custom fade scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f0ec;
+}
+::-webkit-scrollbar-thumb {
+  background: #c5a880;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #084444;
+}
+

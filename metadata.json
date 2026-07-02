@@ -1,0 +1,6 @@
+{
+  "name": "Kakaku Coffee & Place",
+  "description": "High-fidelity premium UI/UX design and production-ready implementation of Kakaku Coffee & Place Cipinang, combining Japanese-influenced minimalist aesthetics with elegant architectural layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
